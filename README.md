@@ -45,7 +45,6 @@ I want to build a vendor app that helps local street vendors connect with people
 
 Describe any challenges encountered while building the app.
 A couple of challenges came while learning how to create the app, some examples included where I had to figure out why my button was not functioning properly when the function Changecolor was not responding under the IBA action. This was due to not connecting the button properly to the viewcontroller file, instead of choosing action i had choosen another option giving me a var connection.
-A couple of challenges came while learning how to create the app, some examples included where I had to figure out why my button was not functioning properly when the function Changecolor was not responding under the IBA action. This was due to not connecting the button properly to the viewcontroller file, instead of choosing action I had choosen another option giving me a var connection.
 
 ## License
 
