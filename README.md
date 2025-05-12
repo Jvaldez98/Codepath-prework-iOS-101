@@ -17,7 +17,9 @@ The following **required** functionality is completed:
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+<a href="https://www.loom.com/share/f69c71c7339248d18a9bfb9f8768260b">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/f69c71c7339248d18a9bfb9f8768260b-b88114fcfdf3f2b4-full-play.gif">
+</a>
 
 ## App Brainstorming (Step 4)
 
@@ -43,6 +45,7 @@ I want to build a vendor app that helps local street vendors connect with people
 
 Describe any challenges encountered while building the app.
 A couple of challenges came while learning how to create the app, some examples included where I had to figure out why my button was not functioning properly when the function Changecolor was not responding under the IBA action. This was due to not connecting the button properly to the viewcontroller file, instead of choosing action i had choosen another option giving me a var connection.
+A couple of challenges came while learning how to create the app, some examples included where I had to figure out why my button was not functioning properly when the function Changecolor was not responding under the IBA action. This was due to not connecting the button properly to the viewcontroller file, instead of choosing action I had choosen another option giving me a var connection.
 
 ## License
 
