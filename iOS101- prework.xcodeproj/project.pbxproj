@@ -134,7 +134,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 559ZF6T27V;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "/Users/mariareyna/Desktop/Codepath projects/iOS101- prework/iOS101- prework/Info.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/iOS101- prework/Info-backup.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -162,7 +162,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 559ZF6T27V;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "/Users/mariareyna/Desktop/Codepath projects/iOS101- prework/iOS101- prework/Info.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/iOS101- prework/Info-backup.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
